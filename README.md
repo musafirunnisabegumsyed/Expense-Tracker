@@ -25,16 +25,11 @@ python expense_tracker.py
 3. Show Total Expense
 4. Exit
 
-Concepts Used
-
+💡Concepts Used
 Python functions
-
 Dictionaries
-
 Loops (while loop)
-
 Conditional statements
-
 User input handling
 
 📁 Project Structure
